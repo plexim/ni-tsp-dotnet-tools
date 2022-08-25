@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<NIVSPortConfig>
+    <Version Major="2019" Minor="1" Fix="0" Build="0"/>
+	<!--The project must refer to a *.nivsproj file, not an *.nivsprj-->
+    <Project>C:\Users\beat\git\ni\dnet-tools\VeriStandProjects\Demo1\Demo1.nivsproj</Project>
+    <ShowWorkspace>false</ShowWorkspace>
+    <ShowVeriStandScreen>false</ShowVeriStandScreen>
+    <MAPortConfig>
+      <TaskList>
+        <!--<Task>Task100</Task>-->
+      </TaskList>
+      <LogPostProcessPeriodMS>500</LogPostProcessPeriodMS>
+    </MAPortConfig>
+</NIVSPortConfig> 
